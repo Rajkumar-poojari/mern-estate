@@ -48,8 +48,8 @@ cd frontend
 npm install
 cp .env.example .env
 npm run dev
-
-# Environment Variables
+---
+ #Environment Variables
 backend/.env.example
 PORT=5000
 MONGO_URI=your_mongo_db_connection
@@ -58,12 +58,12 @@ CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
 
-#frontend/.env.example
+##frontend/.env.example
 VITE_API_URL=http://localhost:5000/api
 
 ---
 
-##Folder Structure
+## Folder Structure
 real-estate-app/
 ├── backend/
 │   ├── controllers/
