@@ -60,8 +60,9 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 #frontend/.env.example
 VITE_API_URL=http://localhost:5000/api
+---------
 
-#Folder Structure
+##Folder Structure
 real-estate-app/
 ├── backend/
 │   ├── controllers/
